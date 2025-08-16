@@ -6,3 +6,4 @@ RENCANA REVOLUSI BELAJAR
 -javascript framework
 -php
 -php framework
+-rekayasa teknologi dan roket(hehehe)
